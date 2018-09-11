@@ -1,2 +1,2 @@
 # NumeralConverter
-A converter that converts Arabic numerals to and from Roman Numerals on the fly.
+A converter that converts Arabic numerals to and from Roman numerals on the fly.
