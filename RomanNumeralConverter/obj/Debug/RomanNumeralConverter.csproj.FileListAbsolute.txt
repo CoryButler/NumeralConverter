@@ -1,0 +1,10 @@
+H:\RomanNumeralConverter\RomanNumeralConverter\obj\Debug\RomanNumeralConverter.csprojResolveAssemblyReference.cache
+H:\RomanNumeralConverter\RomanNumeralConverter\obj\Debug\RomanNumeralConverter.Form_numeralConverter.resources
+H:\RomanNumeralConverter\RomanNumeralConverter\obj\Debug\RomanNumeralConverter.Properties.Resources.resources
+H:\RomanNumeralConverter\RomanNumeralConverter\obj\Debug\RomanNumeralConverter.csproj.GenerateResource.cache
+H:\RomanNumeralConverter\RomanNumeralConverter\obj\Debug\RomanNumeralConverter.csproj.CoreCompileInputs.cache
+H:\RomanNumeralConverter\RomanNumeralConverter\bin\Debug\RomanNumeralConverter.exe.config
+H:\RomanNumeralConverter\RomanNumeralConverter\bin\Debug\RomanNumeralConverter.exe
+H:\RomanNumeralConverter\RomanNumeralConverter\bin\Debug\RomanNumeralConverter.pdb
+H:\RomanNumeralConverter\RomanNumeralConverter\obj\Debug\RomanNumeralConverter.exe
+H:\RomanNumeralConverter\RomanNumeralConverter\obj\Debug\RomanNumeralConverter.pdb
